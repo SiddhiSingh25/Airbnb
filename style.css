@@ -361,6 +361,9 @@ html, body{
     font-size: 1.4rem;
     color: #717171;
   }
+  .n4box3{
+    display: none;
+  }
   
   .price{
     height: 3rem;
