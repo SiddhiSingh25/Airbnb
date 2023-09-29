@@ -134,14 +134,15 @@ let time = document.querySelector(".price span")
         date : "12-18 oct",
         price : "₹10,854",
         time : "night"
+        //https://a0.muscache.com/im/pictures/miso/Hosting-41191586/original/264cf259-bdcd-42d0-ae9d-66968b26121d.jpeg?im_w=720 Puolanka, Finland
     },
     {
-        imgplace : "https://a0.muscache.com/im/pictures/miso/Hosting-41191586/original/264cf259-bdcd-42d0-ae9d-66968b26121d.jpeg?im_w=720",
-        placename : "Puolanka, Finland" , 
+        imgplace : "https://a0.muscache.com/im/pictures/miso/Hosting-721540609203378406/original/9dfaf7d6-40f2-4673-b468-7c5ab3147f86.jpeg?im_w=720",
+        placename : "Sydney, Australia" , 
         rating : "4.6",
         distance : "5347 kilometers away",
         date : "12-18 oct",
-        price : "₹75854",
+        price : "₹5,854",
         time : "morning"
     },
     {
@@ -150,7 +151,7 @@ let time = document.querySelector(".price span")
         rating : "4.5",
         distance : "5347 kilometers away",
         date : "12-18 oct",
-        price : "₹75854",
+        price : "₹6,854",
         time : "morning"
     },
     {
@@ -159,7 +160,7 @@ let time = document.querySelector(".price span")
         rating : "4.9",
         distance : "5347 kilometers away",
         date : "12-18 oct",
-        price : "₹75854",
+        price : "₹9,854",
         time : "morning"
     },
     {
@@ -168,11 +169,11 @@ let time = document.querySelector(".price span")
         rating : "4.7",
         distance : "5347 kilometers away",
         date : "12-18 oct",
-        price : "₹75854",
+        price : "₹5,854",
         time : "morning"
     },
     {
-        imgplace : "https://a0.muscache.com/im/pictures/miso/Hosting-576388435268826012/original/d9ff6c5a-8bdf-4ed6-a1e0-57ec942af052.jpeg?im_w=720",
+        imgplace : "https://a0.muscache.com/im/pictures/7809096f-55f0-47c9-b0be-75bbaeec2122.jpg?im_w=720",
         placename : "Kuusamo, Finland" , 
         rating : "4.5",
         distance : "5347 kilometers away",
@@ -180,8 +181,9 @@ let time = document.querySelector(".price span")
         price : "₹7,854",
         time : "morning"
     },
+    
     {
-        imgplace : "https://a0.muscache.com/im/pictures/7809096f-55f0-47c9-b0be-75bbaeec2122.jpg?im_w=720",
+        imgplace : "https://a0.muscache.com/im/pictures/prohost-api/Hosting-894000949818544206/original/d4c624ad-8b6e-43bf-b180-712c3d76a6f8.jpeg?im_w=720",
         placename : "Uk" , 
         rating : "4.9",
         distance : "5347 kilometers away",
@@ -226,11 +228,11 @@ let time = document.querySelector(".price span")
         time : "morning"
     },
     {
-        imgplace : "https://a0.muscache.com/im/pictures/miso/Hosting-576388435268826012/original/d9ff6c5a-8bdf-4ed6-a1e0-57ec942af052.jpeg?im_w=720",
+        imgplace : "https://a0.muscache.com/im/pictures/prohost-api/Hosting-873668322317691081/original/919b1da9-cf0c-49ea-9940-4a406c023b95.jpeg?im_w=720",
         placename : "India" , 
         rating : "4.54",
         distance : "5347 kilometers away",
-        date : "15-18 Sep",
+        date : "15-8 Sep",
         price : "₹7,854",
         time : "morning"
     },
@@ -243,11 +245,13 @@ let time = document.querySelector(".price span")
         price : "₹9,854",
         time : "morning"
     },{
-        imgplace : "https://a0.muscache.com/im/pictures/miso/Hosting-576388435268826012/original/d9ff6c5a-8bdf-4ed6-a1e0-57ec942af052.jpeg?im_w=720",
-        placename : "Sweden" , 
+        //https://a0.muscache.com/im/pictures/miso/Hosting-576388435268826012/original/d9ff6c5a-8bdf-4ed6-a1e0-57ec942af052.jpeg?im_w=720
+       
+        imgplace : " https://a0.muscache.com/im/pictures/12015095/160e3020_original.jpg?im_w=720",
+        placename : "Paris, France" , 
         rating : "4.8",
         distance : "5347 kilometers away",
-        date : "1-3 Oct",
+        date : "1-7 Oct",
         price : "₹8,854",
         time : "morning"
     },
