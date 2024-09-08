@@ -21,4 +21,4 @@ A simple clone of Airbnb's user interface built with HTML and CSS, featuring smo
    git clone https://github.com/your-username/airbnb-ui-clone.git
 
 
-Web view : ![Alt text](path/to/image)
+Web view : ![Alt text](./Screenshot 2024-09-08 162033.png)
